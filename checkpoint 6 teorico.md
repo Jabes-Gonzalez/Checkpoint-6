@@ -965,4 +965,5 @@ Registro de logs (logger)
 
 * Depuración y pruebas
 
-![alt text](image-2.png)
+![images/image-2.png](image-2.png)
+<img src="https://github.com/Jabes-Gonzalez/Checkpoint-6/blob/main/images/image-2.png" width"500px">
