@@ -259,7 +259,7 @@ Host: ejemplo.com
 HTTP/1.1 204 No Content
 ```
 #### Comparación entre GET, POST y DELETE:
-<img src="https://github.com/Jabes-Gonzalez/Checkpoint-6/blob/main/images/image.png" img width="700px">
+<img src="https://github.com/Jabes-Gonzalez/Checkpoint-6/blob/main/images/image.png" img width="800px">
 
 #### Buenas prácticas al usar GET, POST y DELETE:
 * Usa GET para obtener datos sin efectos secundarios.
@@ -652,7 +652,7 @@ for producto in productos:
 
 * Claridad: Reduce la necesidad de estructuras condicionales complejas para manejar distintos tipos.
 
-<img src="https://github.com/Jabes-Gonzalez/Checkpoint-6/blob/main/images/image-1.png" img width="700px">
+<img src="https://github.com/Jabes-Gonzalez/Checkpoint-6/blob/main/images/image-1.png" img width="800px">
 
 # ¿Qué es un método dunder?
 Los métodos dunder son funciones predefinidas en Python que tienen un propósito especial. Estos métodos están rodeados por dos guiones bajos antes y después del nombre del método, de ahí el nombre «dunder». Los métodos dunder también se conocen como «métodos mágicos». Algunos ejemplos comunes incluyen ```__init__```, ```__str__```, ```__len__```, ```__add__```, entre otros.
@@ -965,5 +965,5 @@ Registro de logs (logger)
 
 * Depuración y pruebas
 
-<img src="https://github.com/Jabes-Gonzalez/Checkpoint-6/blob/main/images/image-2.png" img width="700px">
+<img src="https://github.com/Jabes-Gonzalez/Checkpoint-6/blob/main/images/image-2.png" img width="800px">
 
